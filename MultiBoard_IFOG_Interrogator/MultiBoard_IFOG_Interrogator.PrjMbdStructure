@@ -1,0 +1,2 @@
+Record=DiagramHierarchy|SourceDocument=Connection_Between_Boards.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Acquisition_Board\Acquisition_Board.PrjPcb
+Record=SubProject|SourceDocument=Connection_Between_Boards.MbsDoc|ProjectPath=..\Acquisition_Board\Acquisition_Board.PrjPcb

@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=New Gyro 4.0 Member=D2
+Removed Member From Class: ClassName=New Gyro 4.0 Member=L1
+Change Component Designator: OldDesignator=Con1 NewDesignator=Emulator
+Change Component Designator: OldDesignator=Con2 NewDesignator=Output
+Change Component Designator: OldDesignator=D1 NewDesignator=L1
+Change Component Designator: OldDesignator=D2 NewDesignator=L2
+Change Component Designator: OldDesignator=D3 NewDesignator=TX
+Change Component Designator: OldDesignator=D4 NewDesignator=RX
+Change Net Name : Old Net Name=NetD1_K New Net Name=NetL1_K
+Change Net Name : Old Net Name=NetD2_K New Net Name=NetL2_K
+Change Net Name : Old Net Name=NetD3_K New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetD4_K New Net Name=NetR35_2

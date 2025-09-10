@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C91 Old Comment=47u New Comment=1m
+Change Component Comment : Designator=RX Old Comment=RX New Comment=TX
+Change Component Comment : Designator=TX Old Comment=TX New Comment=RX
+Change Component Designator: OldDesignator=RX NewDesignator=TX
+Change Component Designator: OldDesignator=TX NewDesignator=RX

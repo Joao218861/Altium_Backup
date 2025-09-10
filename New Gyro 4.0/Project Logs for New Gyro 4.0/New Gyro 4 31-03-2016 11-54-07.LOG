@@ -1,0 +1,9 @@
+Added Component: Designator=C126(1206_Capacitor)
+Added Component: Designator=D?(SMB)
+Added Pin To Net: NetName=GND Pin=C126-2
+Added Pin To Net: NetName=+3V3D Pin=D?-1
+Added Pin To Net: NetName=+3VD Pin=C126-1
+Added Pin To Net: NetName=+3VD Pin=D?-2
+Added Net: Name=+3VD
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component C126 47u
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component D? D Schottky

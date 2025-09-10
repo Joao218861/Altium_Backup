@@ -1,0 +1,9 @@
+Manufacturer=TXC CORPORATION
+PartNumber=7P-26.000MBP-T
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=10
+Version=1.3
+Released=2023-03-13 04:45:44
+Downloaded=2025-08-12 18:57:13
+3D=Y

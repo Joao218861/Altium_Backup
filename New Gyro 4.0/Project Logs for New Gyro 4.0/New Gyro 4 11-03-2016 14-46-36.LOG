@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetC120_1 Pin=C122-1
+Removed Pin From Net: NetName=ADGND Pin=C122-2
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C122

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CLK Pin=C25-2
+Removed Pin From Net: NetName=CLK Pin=OSC1-5
+Added Component: Designator=R350(0805)
+Added Component: Designator=R351(0805)
+Added Pin To Net: NetName=CLK Pin=R350-2
+Added Pin To Net: NetName=DGND Pin=R351-1
+Added Pin To Net: NetName=CLK Pin=R351-2
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC25_2 Pin=OSC1-5
+Added Pin To Net: NetName=NetC25_2 Pin=R350-1
+Added Net: Name=NetC25_2
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R350 0R
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R351 0R

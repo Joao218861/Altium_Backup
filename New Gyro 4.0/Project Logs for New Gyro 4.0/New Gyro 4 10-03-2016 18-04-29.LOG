@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+5VD Pin=C95-2
+Removed Pin From Net: NetName=+5VD Pin=C98-1
+Removed Pin From Net: NetName=+5VD Pin=C108-1
+Removed Pin From Net: NetName=+5VD Pin=C110-2
+Removed Pin From Net: NetName=+5VD Pin=IC15-1
+Removed Pin From Net: NetName=+5VD Pin=L4-2
+Removed Pin From Net: NetName=+5VD Pin=L5-1
+Removed Pin From Net: NetName=+3V3A Pin=L7-1
+Removed Pin From Net: NetName=+3V3A Pin=L8-2
+Removed Pin From Net: NetName=+5VA Pin=R59-1
+Removed Pin From Net: NetName=+5VA Pin=R59-2
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R59
+Added Component: Designator=L12(0805)
+Added Component: Designator=R390(0805)
+Added Pin To Net: NetName=+5VA Pin=C95-2
+Added Pin To Net: NetName=+5VA Pin=C98-1
+Added Pin To Net: NetName=+5VA Pin=C108-1
+Added Pin To Net: NetName=+5VA Pin=C110-2
+Added Pin To Net: NetName=+5VA Pin=IC15-1
+Added Pin To Net: NetName=+5VA Pin=L4-2
+Added Pin To Net: NetName=+5VA Pin=L5-1
+Added Pin To Net: NetName=+3V3D Pin=L7-1
+Added Pin To Net: NetName=+3V3D Pin=L8-2
+Added Pin To Net: NetName=+5VA Pin=L12-1
+Added Pin To Net: NetName=+5VD Pin=R390-2
+Change Net Name : Old Net Name=+5VD New Net Name=NetC16_1
+Added Pin To Net: NetName=NetL12_2 Pin=L12-2
+Added Pin To Net: NetName=NetL12_2 Pin=R390-1
+Added Net: Name=NetL12_2
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L12 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R390 10R

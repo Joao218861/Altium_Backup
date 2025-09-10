@@ -1,0 +1,18 @@
+.7P-26.000MBP-T :1 ;26 MHz TCXO CMOS Oscillator 3.3V Enable/Disable 10-SMD, No Lead
+"7P26000MBPT"
+*STM Y
+*NGS
+*PLB 1="GND OR NC" 2="DO NOT CONNECTION_1" 3="TRI‐STATE" 4="GND" 5="DO NOT CONNECTION_2" 6="OUTPUT" 7="DO NOT CONNECTION_3" 8="DO NOT CONNECTION_4" 9="VDD" 10="DO NOT CONNECTION_5"
+*MXP 10
+*DFN 7P-26.000MBP-T
+~!Manufacturer_Name (TXC CORPORATION)
+~!Manufacturer_Part_Number (7P-26.000MBP-T)
+~!Mouser Part Number (717-7P-26.000MBP-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TXC-Corporation/7P-26.000MBP-T?qs=fvzbcJcjqJFBmm0fHbIzJw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.txccrystal.com/images/pdf/7p.pdf)
+~!Height (2.1mm)
+~!3D_Model (7P-26.000MBP-T)
+"7P-26.000MBP-T"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SYNC_M Pin=Con1-1
+Added Component: Designator=R211(0805)
+Added Pin To Net: NetName=NetIC4_23 Pin=IC4-23
+Added Pin To Net: NetName=NetIC4_23 Pin=R211-2
+Added Net: Name=NetIC4_23
+Added Pin To Net: NetName=SYNC_M- Pin=Con1-1
+Added Pin To Net: NetName=SYNC_M- Pin=R211-1
+Added Net: Name=SYNC_M-
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R211 0

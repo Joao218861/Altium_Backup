@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3D Pin=L3-1
+Removed Pin From Net: NetName=+3V3A Pin=L3-2
+Added Component: Designator=L3(SPD62)
+Added Pin To Net: NetName=+3V3D Pin=L3-1
+Added Pin To Net: NetName=+3V3A Pin=L3-2
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L3 10uH

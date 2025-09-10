@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+5VA Pin=C6-v
+Change Component Description : Designator=D1 Old Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 New Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 | Bourns CD1206-S01575
+Change Component Description : Designator=D2 Old Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 New Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 | Bourns CD1206-S01575
+Change Component Description : Designator=J1 Old Description=Headers R/A PCB HDR 3P TIN FRICTION LOCK New Description=Headers R/A PCB HDR 3P TIN FRICTION LOCK | Molex Incorporated 22-05-3031
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C44-1
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

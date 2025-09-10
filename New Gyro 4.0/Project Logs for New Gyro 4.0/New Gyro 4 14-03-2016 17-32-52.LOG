@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SYNC_M- Pin=Con1-1
+Removed Pin From Net: NetName=DA_CS Pin=Con1-6
+Added Pin To Net: NetName=SYNC_M Pin=Con1-1
+Added Pin To Net: NetName=SYNC_M- Pin=Con1-6
+Change Net Name : Old Net Name=SYNC_M- New Net Name=DA_CS-

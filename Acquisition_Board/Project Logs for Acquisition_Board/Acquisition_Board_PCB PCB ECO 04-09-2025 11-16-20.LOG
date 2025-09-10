@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+xVA Pin=R46-1
+Removed Pin From Net: NetName=+xVA Pin=R47-1
+Removed Pin From Net: NetName=GND Pin=R65-1
+Removed Pin From Net: NetName=GND Pin=R66-2
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C44-1
+Added Pin To Net: NetName=GND Pin=C62-1
+Added Pin To Net: NetName=GND Pin=C63-1
+Added Pin To Net: NetName=GND Pin=C68-1
+Added Pin To Net: NetName=GND Pin=C76-1
+Added Pin To Net: NetName=GND Pin=C77-1
+Added Pin To Net: NetName=GND Pin=C78-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=+xV Pin=R46-1
+Added Pin To Net: NetName=+xV Pin=R47-1
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U13-6
+Change Net Name : Old Net Name=GND New Net Name=-xV
+Added Pin To Net: NetName=-xVA Pin=R65-1
+Added Pin To Net: NetName=-xVA Pin=R66-2
+Added Net: Name=-xVA
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

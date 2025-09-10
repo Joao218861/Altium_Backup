@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7P-26.000MBP-T
+D 26 MHz TCXO CMOS Oscillator 3.3V Enable/Disable 10-SMD, No Lead
+K
+F http://www.txccrystal.com/images/pdf/7p.pdf
+$ENDCMP
+#
+#End Doc Library

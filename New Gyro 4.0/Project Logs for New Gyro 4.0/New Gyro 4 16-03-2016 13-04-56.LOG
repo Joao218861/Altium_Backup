@@ -1,0 +1,126 @@
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C126
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R78
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R79
+Change Component Designator: OldDesignator=C88 NewDesignator=C86
+Change Component Designator: OldDesignator=C89 NewDesignator=C87
+Change Component Designator: OldDesignator=C90 NewDesignator=C88
+Change Component Designator: OldDesignator=C91 NewDesignator=C89
+Change Component Designator: OldDesignator=C92 NewDesignator=C90
+Change Component Designator: OldDesignator=C93 NewDesignator=C91
+Change Component Designator: OldDesignator=C94 NewDesignator=C92
+Change Component Designator: OldDesignator=C95 NewDesignator=C93
+Change Component Designator: OldDesignator=C96 NewDesignator=C94
+Change Component Designator: OldDesignator=C97 NewDesignator=C95
+Change Component Designator: OldDesignator=C98 NewDesignator=C96
+Change Component Designator: OldDesignator=C99 NewDesignator=C97
+Change Component Designator: OldDesignator=C100 NewDesignator=C98
+Change Component Designator: OldDesignator=C101 NewDesignator=C99
+Change Component Designator: OldDesignator=C102 NewDesignator=C100
+Change Component Designator: OldDesignator=C103 NewDesignator=C101
+Change Component Designator: OldDesignator=C104 NewDesignator=C102
+Change Component Designator: OldDesignator=C105 NewDesignator=C103
+Change Component Designator: OldDesignator=C106 NewDesignator=C104
+Change Component Designator: OldDesignator=C107 NewDesignator=C105
+Change Component Designator: OldDesignator=C108 NewDesignator=C106
+Change Component Designator: OldDesignator=C109 NewDesignator=C107
+Change Component Designator: OldDesignator=C110 NewDesignator=C108
+Change Component Designator: OldDesignator=C111 NewDesignator=C109
+Change Component Designator: OldDesignator=C112 NewDesignator=C110
+Change Component Designator: OldDesignator=C113 NewDesignator=C111
+Change Component Designator: OldDesignator=C114 NewDesignator=C112
+Change Component Designator: OldDesignator=C115 NewDesignator=C113
+Change Component Designator: OldDesignator=C116 NewDesignator=C114
+Change Component Designator: OldDesignator=C117 NewDesignator=C115
+Change Component Designator: OldDesignator=C118 NewDesignator=C119
+Change Component Designator: OldDesignator=C119 NewDesignator=C120
+Change Component Designator: OldDesignator=C120 NewDesignator=C116
+Change Component Designator: OldDesignator=C121 NewDesignator=C117
+Change Component Designator: OldDesignator=C123 NewDesignator=C118
+Change Component Designator: OldDesignator=C124 NewDesignator=C121
+Change Component Designator: OldDesignator=C125 NewDesignator=C122
+Change Component Designator: OldDesignator=C126 NewDesignator=C123
+Change Component Designator: OldDesignator=L6 NewDesignator=L5
+Change Component Designator: OldDesignator=L9 NewDesignator=L6
+Change Component Designator: OldDesignator=L11 NewDesignator=L7
+Change Component Designator: OldDesignator=L12 NewDesignator=L8
+Change Component Designator: OldDesignator=L13 NewDesignator=L9
+Change Component Designator: OldDesignator=L14 NewDesignator=L10
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R34
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R36
+Change Component Designator: OldDesignator=R38 NewDesignator=R37
+Change Component Designator: OldDesignator=R39 NewDesignator=R38
+Change Component Designator: OldDesignator=R40 NewDesignator=R39
+Change Component Designator: OldDesignator=R41 NewDesignator=R40
+Change Component Designator: OldDesignator=R42 NewDesignator=R41
+Change Component Designator: OldDesignator=R43 NewDesignator=R42
+Change Component Designator: OldDesignator=R44 NewDesignator=R43
+Change Component Designator: OldDesignator=R45 NewDesignator=R44
+Change Component Designator: OldDesignator=R46 NewDesignator=R45
+Change Component Designator: OldDesignator=R47 NewDesignator=R46
+Change Component Designator: OldDesignator=R49 NewDesignator=R47
+Change Component Designator: OldDesignator=R50 NewDesignator=R48
+Change Component Designator: OldDesignator=R51 NewDesignator=R49
+Change Component Designator: OldDesignator=R52 NewDesignator=R50
+Change Component Designator: OldDesignator=R53 NewDesignator=R51
+Change Component Designator: OldDesignator=R54 NewDesignator=R52
+Change Component Designator: OldDesignator=R55 NewDesignator=R53
+Change Component Designator: OldDesignator=R56 NewDesignator=R54
+Change Component Designator: OldDesignator=R57 NewDesignator=R55
+Change Component Designator: OldDesignator=R58 NewDesignator=R56
+Change Component Designator: OldDesignator=R59 NewDesignator=R57
+Change Component Designator: OldDesignator=R60 NewDesignator=R58
+Change Component Designator: OldDesignator=R61 NewDesignator=R59
+Change Component Designator: OldDesignator=R62 NewDesignator=R60
+Change Component Designator: OldDesignator=R63 NewDesignator=R61
+Change Component Designator: OldDesignator=R64 NewDesignator=R62
+Change Component Designator: OldDesignator=R65 NewDesignator=R63
+Change Component Designator: OldDesignator=R66 NewDesignator=R64
+Change Component Designator: OldDesignator=R67 NewDesignator=R65
+Change Component Designator: OldDesignator=R68 NewDesignator=R66
+Change Component Designator: OldDesignator=R69 NewDesignator=R67
+Change Component Designator: OldDesignator=R70 NewDesignator=R68
+Change Component Designator: OldDesignator=R71 NewDesignator=R69
+Change Component Designator: OldDesignator=R72 NewDesignator=R70
+Change Component Designator: OldDesignator=R73 NewDesignator=R71
+Change Component Designator: OldDesignator=R74 NewDesignator=R72
+Change Component Designator: OldDesignator=R75 NewDesignator=R73
+Change Component Designator: OldDesignator=R76 NewDesignator=R74
+Change Component Designator: OldDesignator=R77 NewDesignator=R75
+Change Component Designator: OldDesignator=R78 NewDesignator=R2
+Change Component Designator: OldDesignator=R79 NewDesignator=R4
+Change Net Name : Old Net Name=NetC89_1 New Net Name=NetC87_1
+Change Net Name : Old Net Name=NetC89_2 New Net Name=NetC87_2
+Change Net Name : Old Net Name=NetC92_1 New Net Name=NetC90_1
+Change Net Name : Old Net Name=NetC94_1 New Net Name=NetC92_1
+Change Net Name : Old Net Name=NetC95_1 New Net Name=NetC93_1
+Change Net Name : Old Net Name=NetC101_2 New Net Name=NetC99_2
+Change Net Name : Old Net Name=NetC111_1 New Net Name=NetC109_1
+Change Net Name : Old Net Name=NetC112_1 New Net Name=NetC110_1
+Change Net Name : Old Net Name=NetC113_2 New Net Name=NetC111_2
+Change Net Name : Old Net Name=NetC114_1 New Net Name=NetC112_1
+Change Net Name : Old Net Name=NetC115_1 New Net Name=NetC113_1
+Change Net Name : Old Net Name=NetC117_1 New Net Name=NetC115_1
+Change Net Name : Old Net Name=NetC117_2 New Net Name=NetC115_2
+Change Net Name : Old Net Name=NetC120_1 New Net Name=NetC116_1
+Change Net Name : Old Net Name=NetC124_1 New Net Name=NetC121_1
+Change Net Name : Old Net Name=NetC125_2 New Net Name=NetC122_2
+Change Net Name : Old Net Name=NetL11_2 New Net Name=NetL7_2
+Change Net Name : Old Net Name=NetL12_2 New Net Name=NetL8_2
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component C120 100n
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R3 10k
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R12 100

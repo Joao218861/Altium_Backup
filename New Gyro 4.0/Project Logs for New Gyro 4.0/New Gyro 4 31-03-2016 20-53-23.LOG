@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=L1 NewDesignator=D1
+Change Component Designator: OldDesignator=L2 NewDesignator=D2
+Change Net Name : Old Net Name=NetL1_K New Net Name=NetD1_K
+Change Net Name : Old Net Name=NetL2_K New Net Name=NetD2_K
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component D1 STATUS2
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L2 1uH

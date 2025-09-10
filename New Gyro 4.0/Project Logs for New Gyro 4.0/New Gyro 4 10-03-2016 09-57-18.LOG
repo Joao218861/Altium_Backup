@@ -1,0 +1,8 @@
+Change Component Comment : Designator=C72 Old Comment=0.8p New Comment=1n
+Change Component Comment : Designator=C122 Old Comment=0.8p New Comment=1n
+Change Component Comment : Designator=R44 Old Comment=100k 1% New Comment=1k 1%
+Change Component Comment : Designator=R66 Old Comment=100k 1% New Comment=1k 1%
+Change Component Comment : Designator=R43 Old Comment=100k 1% New Comment=~33k 1%
+Change Component Comment : Designator=R65 Old Comment=100k 1% New Comment=~33k 1%
+Change Component Comment : Designator=OSC1 Old Comment=XTAL_8MHz New Comment=XTAL_10MHz
+Change Class Name : Old Net Name=New Gyro New Net Name=New Gyro 4.0

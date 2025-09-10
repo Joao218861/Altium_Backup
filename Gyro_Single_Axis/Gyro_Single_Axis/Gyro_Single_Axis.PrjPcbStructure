@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Analog_Acquisition_Circuit.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Analog_Acquisition_Circuit.SchDoc|FileName=Analog_Modulation_and_Supply.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analog_Acquisition_Circuit.SchDoc|FileName=Digital_STMG447RET6.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analog_Acquisition_Circuit.SchDoc|FileName=Digital_Supply_and_Connectors.SchDoc|SheetNumber=4

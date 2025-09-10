@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=+3V3A Pin=C67-2
+Removed Pin From Net: NetName=+3V3A Pin=C68-2
+Removed Pin From Net: NetName=+3V3A Pin=C80-1
+Removed Pin From Net: NetName=+3V3A Pin=C81-1
+Removed Pin From Net: NetName=+3V3A Pin=C90-1
+Removed Pin From Net: NetName=+3V3A Pin=C91-1
+Removed Pin From Net: NetName=+3V3A Pin=C122-1
+Removed Pin From Net: NetName=+3V3A Pin=C123-1
+Removed Pin From Net: NetName=+3V3A Pin=C124-1
+Removed Pin From Net: NetName=+3V3A Pin=C125-1
+Removed Pin From Net: NetName=+3V3A Pin=IC16-23
+Removed Pin From Net: NetName=+3V3A Pin=IC16-24
+Removed Pin From Net: NetName=+3V3A Pin=IC16-27
+Removed Pin From Net: NetName=+3V3A Pin=IC16-28
+Removed Pin From Net: NetName=+3V3A Pin=IC16-48
+Removed Pin From Net: NetName=+3V3A Pin=IC16-49
+Removed Pin From Net: NetName=+3V3A Pin=IC16-52
+Removed Pin From Net: NetName=+3V3A Pin=IC16-58
+Removed Pin From Net: NetName=+3V3A Pin=L3-2
+Added Component: Designator=L7(0805)
+Added Component: Designator=L8(0805)
+Added Component: Designator=L9(0805)
+Added Component: Designator=L10(0805)
+Added Pin To Net: NetName=+3V3D Pin=L9-1
+Added Pin To Net: NetName=+3V3A Pin=L10-1
+Added Pin To Net: NetName=+3V3D Pin=L10-2
+Change Net Name : Old Net Name=+3V3A New Net Name=NetC114_1
+Added Pin To Net: NetName=+3V3A Pin=L3-2
+Added Pin To Net: NetName=+3V3A Pin=L7-1
+Added Pin To Net: NetName=+3V3A Pin=L8-2
+Added Net: Name=+3V3A
+Added Pin To Net: NetName=NetC67_2 Pin=C67-2
+Added Pin To Net: NetName=NetC67_2 Pin=C68-2
+Added Pin To Net: NetName=NetC67_2 Pin=IC16-58
+Added Pin To Net: NetName=NetC67_2 Pin=L7-2
+Added Net: Name=NetC67_2
+Added Pin To Net: NetName=NetC80_1 Pin=C80-1
+Added Pin To Net: NetName=NetC80_1 Pin=C81-1
+Added Pin To Net: NetName=NetC80_1 Pin=C90-1
+Added Pin To Net: NetName=NetC80_1 Pin=C91-1
+Added Pin To Net: NetName=NetC80_1 Pin=IC16-48
+Added Pin To Net: NetName=NetC80_1 Pin=IC16-49
+Added Pin To Net: NetName=NetC80_1 Pin=IC16-52
+Added Pin To Net: NetName=NetC80_1 Pin=L8-1
+Added Net: Name=NetC80_1
+Added Pin To Net: NetName=NetC122_1 Pin=C122-1
+Added Pin To Net: NetName=NetC122_1 Pin=C123-1
+Added Pin To Net: NetName=NetC122_1 Pin=C124-1
+Added Pin To Net: NetName=NetC122_1 Pin=C125-1
+Added Pin To Net: NetName=NetC122_1 Pin=IC16-23
+Added Pin To Net: NetName=NetC122_1 Pin=IC16-24
+Added Pin To Net: NetName=NetC122_1 Pin=IC16-27
+Added Pin To Net: NetName=NetC122_1 Pin=IC16-28
+Added Pin To Net: NetName=NetC122_1 Pin=L9-2
+Added Net: Name=NetC122_1
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L7 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L8 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L9 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L10 1uH

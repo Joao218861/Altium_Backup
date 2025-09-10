@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=REF2.5 Pin=IC13-3
+Removed Pin From Net: NetName=REF2.5 Pin=IC13-5
+Added Component: Designator=R77(0805)
+Added Pin To Net: NetName=REF2.5 Pin=R77-2
+Change Net Name : Old Net Name=REF2.5 New Net Name=NetC125_2
+Added Pin To Net: NetName=REF2.5 Pin=IC13-3
+Added Pin To Net: NetName=REF2.5 Pin=IC13-5
+Added Pin To Net: NetName=REF2.5 Pin=R77-1
+Added Net: Name=REF2.5
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R77 0R

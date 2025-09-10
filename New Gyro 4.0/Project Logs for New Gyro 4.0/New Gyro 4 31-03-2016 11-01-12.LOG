@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC83_1 Pin=C83-1
+Removed Pin From Net: NetName=NetC115_1 Pin=C115-1
+Added Component: Designator=C124(0805-cap)
+Added Component: Designator=C125(0805-cap)
+Added Pin To Net: NetName=NetC83_1 Pin=C124-1
+Added Pin To Net: NetName=NetC115_1 Pin=C125-1
+Change Net Name : Old Net Name=NetC83_1 New Net Name=NetC124_1
+Change Net Name : Old Net Name=NetC115_1 New Net Name=NetC125_1
+Added Pin To Net: NetName=NetC83_1 Pin=C83-1
+Added Pin To Net: NetName=NetC83_1 Pin=C124-2
+Added Net: Name=NetC83_1
+Added Pin To Net: NetName=NetC115_1 Pin=C115-1
+Added Pin To Net: NetName=NetC115_1 Pin=C125-2
+Added Net: Name=NetC115_1
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component C124 0.8p
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component C125 0.8p

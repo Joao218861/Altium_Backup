@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=AD_CLK Pin=IC6-4
+Removed Pin From Net: NetName=CLK Pin=R350-2
+Removed Pin From Net: NetName=CLK Pin=R351-2
+Change Component Comment : Designator=R351 Old Comment=0R New Comment=1k
+Change Component Comment : Designator=R350 Old Comment=0R New Comment=2k
+Added Component: Designator=R352(0805)
+Added Component: Designator=R353(0805)
+Added Pin To Net: NetName=NetC25_2 Pin=R352-1
+Added Pin To Net: NetName=AD_CLK Pin=R352-2
+Added Pin To Net: NetName=AD_CLK Pin=R353-2
+Added Pin To Net: NetName=ARM_CLK Pin=R350-2
+Added Pin To Net: NetName=ARM_CLK Pin=R351-2
+Added Net: Name=ARM_CLK
+Added Pin To Net: NetName=NetIC6_4 Pin=IC6-4
+Added Pin To Net: NetName=NetIC6_4 Pin=R353-1
+Added Net: Name=NetIC6_4
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R352 0R
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R353 0R

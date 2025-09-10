@@ -1,0 +1,13 @@
+Added Component: Designator=J1(22-05-3031)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/22-05-3031/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "22-05-3031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/22-05-3031/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C44-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=MIOC+ Pin=J1-2
+Added Pin To Net: NetName=MIOC- Pin=J1-3
+Added Member To Class: ClassName=Analog_Modulation Member=Component J1 22053031

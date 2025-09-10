@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=DGND Pin=C21-1
+Added Pin To Net: NetName=DGND Pin=C22-2
+Added Pin To Net: NetName=DGND Pin=C25-1
+Added Pin To Net: NetName=DGND Pin=C47-1
+Added Pin To Net: NetName=DGND Pin=C93-2
+Added Pin To Net: NetName=DGND Pin=C107-1
+Added Pin To Net: NetName=DGND Pin=C108-1
+Added Pin To Net: NetName=DGND Pin=C109-2
+Added Pin To Net: NetName=DGND Pin=C110-2
+Added Pin To Net: NetName=DGND Pin=D6-K
+Added Pin To Net: NetName=DGND Pin=IC6-1
+Added Pin To Net: NetName=DGND Pin=IC6-3
+Added Pin To Net: NetName=DGND Pin=IC16-2
+Added Pin To Net: NetName=DGND Pin=L5-1
+Added Pin To Net: NetName=DGND Pin=L7-1
+Added Pin To Net: NetName=DGND Pin=L8-1
+Added Pin To Net: NetName=DGND Pin=L10-1
+Added Pin To Net: NetName=DGND Pin=L10-2
+Added Pin To Net: NetName=DGND Pin=L12-1
+Added Pin To Net: NetName=DGND Pin=OSC1-4
+Added Pin To Net: NetName=DGND Pin=R7-1
+Change Net Name : Old Net Name=DGND New Net Name=GND

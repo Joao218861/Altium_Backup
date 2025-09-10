@@ -1,0 +1,168 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "7P-26.000MBP-T"
+   (description "26 MHz TCXO CMOS Oscillator 3.3V Enable/Disable 10-SMD, No Lead")
+   (family "OSC")
+   (package "7P26000MBPT")
+   (attribute "Datasheet Link" "http://www.txccrystal.com/images/pdf/7p.pdf")
+   (attribute "Geometry.Height" "2.1mm")
+   (attribute "Manufacturer_Name" "TXC CORPORATION")
+   (attribute "Manufacturer_Part_Number" "7P-26.000MBP-T")
+   (attribute "Mouser Part Number" "717-7P-26.000MBP-T")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TXC-Corporation/7P-26.000MBP-T?qs=fvzbcJcjqJFBmm0fHbIzJw%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "7P-26.000MBP-T")
+    (pin "GND_OR_NC" 1 PS)
+    (pin "DO_NOT_CONNECTION_1" 2 PS)
+    (pin "TRI‐STATE" 3 PS)
+    (pin "GND" 4 PS)
+    (pin "DO_NOT_CONNECTION_2" 5 PS)
+    (pin "OUTPUT" 6 PS)
+    (pin "DO_NOT_CONNECTION_3" 7 PS)
+    (pin "DO_NOT_CONNECTION_4" 8 PS)
+    (pin "VDD" 9 PS)
+    (pin "DO_NOT_CONNECTION_5" 10 PS)
+   )
+  )
+  (symbol "7P-26.000MBP-T"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 1200) (pt 2400 1200) (pt 2400 -1400) (pt 200 -1400) (pt 200 1200) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -1600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -1600) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2600 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2600 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 2600 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 1400) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 1400) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "7P26000MBPT"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.5 1.6)
+      (pt 2.5 1.6)
+      (pt 2.5 -1.6)
+      (pt -2.5 -1.6)
+      (pt -2.5 1.6))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.75 2.8)
+      (pt 3.75 2.8)
+      (pt 3.75 -2.8)
+      (pt -3.75 -2.8)
+      (pt -3.75 2.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.25 -2.4)
+      (arc (pt -2.250 -2.400) (pt -2.300 -2.400) (pt -2.200 -2.300) (start 180.0) (sweep -90.0))
+      (pt -2.25 -2.3)
+      (arc (pt -2.250 -2.300) (pt -2.300 -2.400) (pt -2.200 -2.300) (start 180.0) (sweep 90.0))
+      (pt -2.25 -2.4))))
+   (leg 1 (pt -2.250 -1.300) (padstack 0))
+   (leg 2 (pt -0.600 -1.475) (padstack 2))
+   (leg 3 (pt 0.600 -1.475) (padstack 3))
+   (leg 4 (pt 2.250 -1.300) (padstack 0))
+   (leg 5 (pt 2.250 0.000) (padstack 5))
+   (leg 6 (pt 2.250 1.300) (padstack 0))
+   (leg 7 (pt 0.600 1.475) (padstack 7))
+   (leg 8 (pt -0.600 1.475) (padstack 8))
+   (leg 9 (pt -2.250 1.300) (padstack 0))
+   (leg 10 (pt -2.250 0.000) (padstack 10))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (square 1.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 0.650 0 0 90.000))
+   )
+   (padstack 3
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 0.650 0 0 90.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 1.000 0 0 0.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 0.650 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 0.650 0 0 90.000))
+   )
+   (padstack 10
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 1.000 0 0 0.000))
+   )
+   (model "7P-26.000MBP-T.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

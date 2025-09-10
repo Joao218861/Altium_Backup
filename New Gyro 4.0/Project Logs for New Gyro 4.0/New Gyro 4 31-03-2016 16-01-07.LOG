@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=D+ Pin=IC9-13
+Removed Pin From Net: NetName=D+ Pin=Output-7
+Removed Pin From Net: NetName=D+ Pin=R30-2
+Removed Pin From Net: NetName=D+ Pin=R33-2
+Added Pin To Net: NetName=D- Pin=IC9-13
+Added Pin To Net: NetName=D- Pin=Output-7
+Added Pin To Net: NetName=D- Pin=R30-2
+Added Pin To Net: NetName=D- Pin=R33-2
+Added Net: Name=D-

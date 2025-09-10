@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetEMULATOR_1 Pin=R54-1
+Removed Pin From Net: NetName=NetC83_1 Pin=R56-1
+Removed Pin From Net: NetName=NetC115_2 Pin=R56-2
+Added Component: Designator=EMUL(HDR1X3)
+Added Pin To Net: NetName=GND Pin=EMUL-1
+Added Pin To Net: NetName=NetEMULATOR_1 Pin=EMUL-2
+Added Pin To Net: NetName=NetC115_2 Pin=R56-1
+Added Pin To Net: NetName=NetEMULATOR_1 Pin=R56-2
+Change Net Name : Old Net Name=NetEMULATOR_1 New Net Name=NetEMUL_2
+Added Pin To Net: NetName=NetEMUL_3 Pin=EMUL-3
+Added Pin To Net: NetName=NetEMUL_3 Pin=R54-1
+Added Net: Name=NetEMUL_3
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component Emulator DB9
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component EMUL Header 4

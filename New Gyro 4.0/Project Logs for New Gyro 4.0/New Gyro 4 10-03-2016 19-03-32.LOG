@@ -1,0 +1,5 @@
+Added Component: Designator=L23(0805)
+Added Pin To Net: NetName=PGND Pin=L23-1
+Added Pin To Net: NetName=CGND Pin=L23-2
+Added Net: Name=CGND
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L23 1uH

@@ -1,0 +1,7 @@
+Added Component: Designator=PD1(BYW29-150)
+Add component (AddParameter): Name = "Text Field1"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Text Field2"; Value = "20"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC40_2 Pin=PD1-A
+Added Pin To Net: NetName=NetC33_2 Pin=PD1-K
+Added Pin To Net: NetName=GND Pin=PD1-S
+Added Member To Class: ClassName=Analog_Supply_and_TIA Member=Component PD1 BYW29-150

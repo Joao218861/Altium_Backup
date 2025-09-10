@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC76_1 Pin=C86-1
+Removed Pin From Net: NetName=ADGND Pin=C86-2
+Removed Pin From Net: NetName=NetC76_1 Pin=C87-1
+Removed Pin From Net: NetName=ADGND Pin=C87-2
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C86
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C87

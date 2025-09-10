@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '7P_26.000MBP_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TXC CORPORATION", "7P-26.000MBP-T" (!) = "", "7P26000MBPT", "Other", "717-7P-26.000MBP-T", "https://www.mouser.co.uk/ProductDetail/TXC-Corporation/7P-26.000MBP-T?qs=fvzbcJcjqJFBmm0fHbIzJw%3D%3D", "", "", "26 MHz TCXO CMOS Oscillator 3.3V Enable/Disable 10-SMD, No Lead", "http://www.txccrystal.com/images/pdf/7p.pdf", "2.1 mm"
+END_PART
+
+END.

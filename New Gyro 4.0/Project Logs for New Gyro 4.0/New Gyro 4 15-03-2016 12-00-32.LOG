@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=TEMP_CS Pin=IC4-6
+Added Pin To Net: NetName=TEMP_CS Pin=IC4-44

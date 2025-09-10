@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MultiBoard_Digital_Connector.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=MultiBoard_Digital_Connector.SchDoc|Designator=U_MicrocontrollerDigital|SchDesignator=U_MicrocontrollerDigital|FileName=MicrocontrollerDigital.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=MicrocontrollerDigital.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MultiBoard_Digital_Connector.SchDoc|Designator=U_SupplyDigital|SchDesignator=U_SupplyDigital|FileName=SupplyDigital.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=SupplyDigital.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

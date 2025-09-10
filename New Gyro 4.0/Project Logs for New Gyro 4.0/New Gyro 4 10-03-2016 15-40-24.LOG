@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5VA Pin=R34-1
+Added Component: Designator=L6(SPD62)
+Added Pin To Net: NetName=+5VA Pin=L6-1
+Added Pin To Net: NetName=NetL6_2 Pin=L6-2
+Added Pin To Net: NetName=NetL6_2 Pin=R34-1
+Added Net: Name=NetL6_2
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L6 1uH

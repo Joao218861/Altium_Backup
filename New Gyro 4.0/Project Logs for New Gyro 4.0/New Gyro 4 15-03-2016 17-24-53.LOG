@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=L5-1
+Removed Pin From Net: NetName=GND Pin=L5-2
+Removed Pin From Net: NetName=GND Pin=L7-1
+Removed Pin From Net: NetName=GND Pin=L7-2
+Removed Pin From Net: NetName=GND Pin=L8-1
+Removed Pin From Net: NetName=GND Pin=L8-2
+Removed Pin From Net: NetName=GND Pin=L10-1
+Removed Pin From Net: NetName=GND Pin=L10-2
+Removed Member From Class: ClassName=New Gyro 4.0 Member=L5
+Removed Member From Class: ClassName=New Gyro 4.0 Member=L7
+Removed Member From Class: ClassName=New Gyro 4.0 Member=L8
+Removed Member From Class: ClassName=New Gyro 4.0 Member=L10

@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=D+ Pin=IC9-13
+Added Pin To Net: NetName=RX Pin=Output-1
+Added Pin To Net: NetName=TX Pin=Output-2
+Added Pin To Net: NetName=+3V3D Pin=Output-3
+Added Pin To Net: NetName=+5VA Pin=Output-4
+Added Pin To Net: NetName=GND Pin=Output-5
+Added Pin To Net: NetName=D+ Pin=Output-7
+Added Pin To Net: NetName=D+ Pin=R30-2
+Added Pin To Net: NetName=D+ Pin=R33-2

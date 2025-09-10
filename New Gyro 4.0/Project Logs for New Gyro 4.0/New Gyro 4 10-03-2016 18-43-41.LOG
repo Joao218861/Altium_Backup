@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=DGND Pin=C95-1
+Removed Pin From Net: NetName=DGND Pin=C97-1
+Removed Pin From Net: NetName=DGND Pin=C98-2
+Removed Pin From Net: NetName=DGND Pin=C99-2
+Removed Pin From Net: NetName=DGND Pin=C108-2
+Removed Pin From Net: NetName=DGND Pin=D6-K
+Removed Pin From Net: NetName=DGND Pin=IC15-2
+Removed Pin From Net: NetName=DGND Pin=L6-1
+Removed Pin From Net: NetName=AGND Pin=R61-1
+Removed Pin From Net: NetName=DGND Pin=R61-2
+Removed Pin From Net: NetName=AGND Pin=R64-1
+Removed Pin From Net: NetName=DGND Pin=R64-2
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R61
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R64
+Added Component: Designator=L20(0805)
+Added Component: Designator=L21(0805)
+Added Component: Designator=L22(0805)
+Added Pin To Net: NetName=AGND Pin=L20-2
+Added Pin To Net: NetName=AGND Pin=L21-2
+Added Pin To Net: NetName=DGND Pin=L22-2
+Added Pin To Net: NetName=PGND Pin=C95-1
+Added Pin To Net: NetName=PGND Pin=C97-1
+Added Pin To Net: NetName=PGND Pin=C98-2
+Added Pin To Net: NetName=PGND Pin=C99-2
+Added Pin To Net: NetName=PGND Pin=C108-2
+Added Pin To Net: NetName=PGND Pin=D6-K
+Added Pin To Net: NetName=PGND Pin=IC15-2
+Added Pin To Net: NetName=PGND Pin=L6-1
+Added Pin To Net: NetName=PGND Pin=L20-1
+Added Pin To Net: NetName=PGND Pin=L21-1
+Added Pin To Net: NetName=PGND Pin=L22-1
+Added Net: Name=PGND
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L20 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L21 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L22 1uH

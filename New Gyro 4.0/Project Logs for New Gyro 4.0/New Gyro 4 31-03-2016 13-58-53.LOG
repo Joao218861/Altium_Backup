@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C91 Old Footprint=1206_Capacitor New Footprint=CAP 1000u - duplicate
+Added Component: Designator=R49(0805)
+Added Pin To Net: NetName=NetC70_1 Pin=R49-1

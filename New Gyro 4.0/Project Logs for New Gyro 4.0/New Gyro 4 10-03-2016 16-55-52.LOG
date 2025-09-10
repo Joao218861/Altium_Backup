@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+3V3A Pin=R82-1
+Removed Pin From Net: NetName=AGND Pin=R83-1
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R82
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R83
+Change Component Comment : Designator=R26 Old Comment=0 New Comment=50R
+Change Component Comment : Designator=R4 Old Comment=100 New Comment=50R
+Change Component Comment : Designator=R24 Old Comment=100 New Comment=50R
+Change Component Comment : Designator=R27 Old Comment=100 New Comment=50R
+Change Component Comment : Designator=R28 Old Comment=100 New Comment=50R
+Change Component Comment : Designator=R58 Old Comment=100 New Comment=50R
+Change Component Comment : Designator=R60 Old Comment=100 New Comment=50R
+Change Component Comment : Designator=R63 Old Comment=100 New Comment=50R
+Added Pin To Net: NetName=+3V3A Pin=IC16-29

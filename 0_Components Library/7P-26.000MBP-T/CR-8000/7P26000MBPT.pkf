@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "7P26000MBPT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "7P26000MBPT")
+        (spec "default")
+    )
+)

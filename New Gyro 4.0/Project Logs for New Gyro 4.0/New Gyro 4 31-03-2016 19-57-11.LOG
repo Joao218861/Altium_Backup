@@ -1,0 +1,5 @@
+Added Component: Designator=R76(0805)
+Added Pin To Net: NetName=GND Pin=R76-2
+Added Pin To Net: NetName=CGND Pin=R76-1
+Added Net: Name=CGND
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R76 1k

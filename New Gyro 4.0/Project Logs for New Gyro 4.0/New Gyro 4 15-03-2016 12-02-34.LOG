@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=EMUL_CS Pin=IC4-53
+Added Pin To Net: NetName=EMUL_CS Pin=IC4-43

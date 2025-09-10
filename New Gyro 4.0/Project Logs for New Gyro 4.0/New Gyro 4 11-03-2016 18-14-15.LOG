@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AD_CLK Pin=R48-2
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R48
+Change Component Comment : Designator=R21 Old Comment=0R New Comment=50R
+Added Pin To Net: NetName=AD_CLK Pin=IC15-55

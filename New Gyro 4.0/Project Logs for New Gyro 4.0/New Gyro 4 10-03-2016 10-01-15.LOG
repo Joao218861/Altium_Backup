@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+5VA Pin=C107-1
+Removed Pin From Net: NetName=AGND Pin=C107-2
+Removed Pin From Net: NetName=+5VA Pin=C108-1
+Removed Pin From Net: NetName=AGND Pin=C108-2
+Removed Pin From Net: NetName=REF2.5 Pin=C124-1
+Removed Pin From Net: NetName=AGND Pin=C124-2
+Removed Pin From Net: NetName=REF2.5 Pin=C125-1
+Removed Pin From Net: NetName=AGND Pin=C125-2
+Removed Pin From Net: NetName=REF2.5 Pin=IC15-4
+Removed Pin From Net: NetName=+5VA Pin=IC15-5
+Removed Pin From Net: NetName=+5VA Pin=IC15-6
+Removed Pin From Net: NetName=+5VA Pin=IC15-7
+Removed Pin From Net: NetName=+5VA Pin=IC15-8
+Removed Pin From Net: NetName=REF2.5 Pin=IC15-9
+Removed Pin From Net: NetName=AGND Pin=IC15-13
+Removed Pin From Net: NetName=AGND Pin=IC15-14
+Removed Pin From Net: NetName=AGND Pin=IC15-15
+Removed Pin From Net: NetName=AGND Pin=IC15-16
+Removed Pin From Net: NetName=NetC86_1 Pin=R54-1
+Removed Pin From Net: NetName=NetC126_1 Pin=R67-1
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C107
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C108
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C124
+Removed Member From Class: ClassName=New Gyro 4.0 Member=C125
+Removed Member From Class: ClassName=New Gyro 4.0 Member=IC15
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R52
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R54
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R67
+Removed Member From Class: ClassName=New Gyro 4.0 Member=R76
+Added Pin To Net: NetName=NetC86_1 Pin=R57-1
+Added Pin To Net: NetName=NetC126_1 Pin=R68-1

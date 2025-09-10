@@ -1,0 +1,14 @@
+Change Component Comment : Designator=R7 Old Comment=1k New Comment=2k
+Change Component Comment : Designator=R4 Old Comment=2k New Comment=1k
+Change Component Comment : Designator=R48 Old Comment=100 New Comment=50R
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component C120 10u
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component C121 100n
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component C126 100n
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L7 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L8 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L10 1uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L12 10uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R6 100
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R20 100
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R26 0
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component R39 10k

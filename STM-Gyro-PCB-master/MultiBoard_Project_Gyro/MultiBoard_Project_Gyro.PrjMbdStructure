@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=Multi_Board_Gyro.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\MultiBoard_Analog\MultiBoard_Analog.PrjPcb
+Record=SubProject|SourceDocument=Multi_Board_Gyro.MbsDoc|ProjectPath=..\MultiBoard_Analog\MultiBoard_Analog.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Multi_Board_Gyro.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\MultiBoard_Digital\MultiBoard_Digital.PrjPcb
+Record=SubProject|SourceDocument=Multi_Board_Gyro.MbsDoc|ProjectPath=..\MultiBoard_Digital\MultiBoard_Digital.PrjPcb

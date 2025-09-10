@@ -1,0 +1,7 @@
+Added Component: Designator=IC18(SOT-23-5)
+Added Pin To Net: NetName=+3V3D Pin=IC18-1
+Added Pin To Net: NetName=GND Pin=IC18-2
+Added Pin To Net: NetName=+3V3D Pin=IC18-3
+Added Pin To Net: NetName=NetC129_2 Pin=IC18-4
+Added Pin To Net: NetName=+3VD Pin=IC18-5
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component IC18 LP2985

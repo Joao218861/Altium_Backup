@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+3V3D Pin=L2-1
+Removed Pin From Net: NetName=+3V3A Pin=L2-2
+Removed Pin From Net: NetName=+5VA Pin=R34-1
+Change Component Footprint: Designator=L2 Old Footprint=SPD62 New Footprint=0805
+Change Component Comment : Designator=L2 Old Comment=10uH New Comment=1uH
+Change Component Designator: OldDesignator=L3 NewDesignator=L4
+Change Component Designator: OldDesignator=L4 NewDesignator=L5
+Change Component Designator: OldDesignator=L5 NewDesignator=L6
+Added Component: Designator=L3(SPD62)
+Added Pin To Net: NetName=+5VA Pin=L2-2
+Added Pin To Net: NetName=+3V3D Pin=L3-1
+Added Pin To Net: NetName=+3V3A Pin=L3-2
+Change Net Name : Old Net Name=NetL4_2 New Net Name=NetL5_2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R34-1
+Added Net: Name=NetL2_1
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L3 10uH
+Added Member To Class: ClassName=New Gyro 4.0 Member=Component L6 10uH
