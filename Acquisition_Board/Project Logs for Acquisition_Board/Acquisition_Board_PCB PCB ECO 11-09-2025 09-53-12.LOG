@@ -1,0 +1,32 @@
+Change Component Description : Designator=D1 Old Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 New Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 | Bourns CD1206-S01575
+Change Component Description : Designator=D2 Old Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 New Description=CD1206-S01575, SMT Switching Diode, Vr=75V 150mA, 4ns, 2-Pin 1206 | Bourns CD1206-S01575
+Change Component Description : Designator=J1 Old Description=Headers R/A PCB HDR 3P TIN FRICTION LOCK New Description=Headers R/A PCB HDR 3P TIN FRICTION LOCK | Molex Incorporated 22-05-3031
+Added Component: Designator=U9(AD8599ARZ)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AD8599ARZ/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AD8599ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search?q=AD8599ARZ&ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AD8599ARZ/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VREF_DAC1220 Pin=U9-1
+Added Pin To Net: NetName=VREF_DAC1220 Pin=U9-2
+Added Pin To Net: NetName=NetC91_1 Pin=U9-3
+Added Pin To Net: NetName=GND Pin=U9-4
+Added Pin To Net: NetName=NetR32_1 Pin=U9-5
+Added Pin To Net: NetName=NetC51_2 Pin=U9-6
+Added Pin To Net: NetName=NetC51_1 Pin=U9-7
+Added Pin To Net: NetName=+5VA Pin=U9-8
+Added Member To Class: ClassName=Analog_Modulation Member=Component C58 Cap Pol1
+Added Member To Class: ClassName=Analog_Modulation Member=Component C59 Cap
+Added Member To Class: ClassName=Analog_Modulation Member=Component R31 Res2
+Added Member To Class: ClassName=Analog_Modulation Member=Component R35 Res2
+Added Member To Class: ClassName=Analog_Modulation Member=Component R88 Res2
+Added Member To Class: ClassName=Analog_Modulation Member=Component U9 AD8599ARZ
+Added Member To Class: ClassName=Analog_Modulation Member=Component U10 LM2663M_NOPB
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE
