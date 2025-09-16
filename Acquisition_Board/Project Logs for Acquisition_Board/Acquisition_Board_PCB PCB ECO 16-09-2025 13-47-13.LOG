@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC52_1 Pin=U20-37
+Added Pin To Net: NetName=NetC52_1 Pin=U20-38
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

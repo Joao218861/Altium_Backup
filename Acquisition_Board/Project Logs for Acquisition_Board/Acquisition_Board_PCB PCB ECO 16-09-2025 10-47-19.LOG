@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetR78_1 Pin=U20-34
+Removed Pin From Net: NetName=NetR77_1 Pin=U20-38
+Removed Pin From Net: NetName=NetR75_1 Pin=U20-39
+Removed Pin From Net: NetName=NetR74_1 Pin=U20-40
+Removed Pin From Net: NetName=NetR73_1 Pin=U20-41
+Removed Pin From Net: NetName=NetR72_1 Pin=U20-44
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE
