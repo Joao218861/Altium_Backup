@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJ8_5 Pin=U20-49
+Removed Pin From Net: NetName=NetJ8_6 Pin=U20-50
+Added Pin To Net: NetName=NetJ8_6 Pin=U20-49
+Added Pin To Net: NetName=NetJ8_5 Pin=U20-50
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE
