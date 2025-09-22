@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=VDD1 Pin=D5-2
+Removed Pin From Net: NetName=VDD1 Pin=D6-2
+Removed Pin From Net: NetName=VDD1 Pin=D7-2
+Removed Pin From Net: NetName=VDD1 Pin=D8-2
+Removed Pin From Net: NetName=VDD1 Pin=D9-2
+Removed Pin From Net: NetName=VDD1 Pin=D10-2
+Removed Pin From Net: NetName=VDD1 Pin=D11-2
+Removed Pin From Net: NetName=VDD1 Pin=D12-2
+Removed Pin From Net: NetName=RX Pin=R71-2
+Removed Pin From Net: NetName=TX Pin=R76-2
+Added Pin To Net: NetName=GND Pin=R71-2
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=GND Pin=R73-1
+Added Pin To Net: NetName=GND Pin=R74-1
+Added Pin To Net: NetName=GND Pin=R75-1
+Added Pin To Net: NetName=GND Pin=R76-2
+Added Pin To Net: NetName=GND Pin=R77-1
+Added Pin To Net: NetName=GND Pin=R78-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=J9-12
+Added Pin To Net: NetName=NetD5_2 Pin=U20-8
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=J9-11
+Added Pin To Net: NetName=NetD6_2 Pin=U20-9
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=J9-10
+Added Pin To Net: NetName=NetD7_2 Pin=U20-10
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=J9-9
+Added Pin To Net: NetName=NetD8_2 Pin=U20-11
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=J9-8
+Added Pin To Net: NetName=NetD11_2 Pin=U20-12
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=J9-7
+Added Pin To Net: NetName=NetD12_2 Pin=U20-13
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=RX1 Pin=D9-2
+Added Net: Name=RX1
+Added Pin To Net: NetName=TX1 Pin=D10-2
+Added Net: Name=TX1
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

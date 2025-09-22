@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=Digital_Connectors_and_IHM Member=R58
+Removed Member From Class: ClassName=Digital_Connectors_and_IHM Member=R59
+Removed Member From Class: ClassName=Digital_Connectors_and_IHM Member=R65
+Removed Member From Class: ClassName=Digital_Connectors_and_IHM Member=R66
+Change Net Name : Old Net Name=NetJ4_14 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetJ4_16 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetJ4_21 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetJ4_23 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetJ4_56 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetJ4_60 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetJ4_62 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetJ4_63 New Net Name=NetR56_2
+Change Net Name : Old Net Name=NetJ4_64 New Net Name=NetR23_2
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_STMG474RE
