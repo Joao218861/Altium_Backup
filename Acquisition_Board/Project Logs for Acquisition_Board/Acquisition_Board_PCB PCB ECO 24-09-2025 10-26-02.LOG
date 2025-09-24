@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetD13_1 Pin=J10-A12
+Removed Pin From Net: NetName=NetD13_1 Pin=J10-B12
+Added Component: Designator=D?(3SMBJ5918B-TP)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "3SMBJ5918B-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/3smbj5918b-tp/micro-commercial-components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mccsemi.com/pdf/Products/3SMBJ5918B-3SMBJ5956B(SMB).pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3SMBJ5918B-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "833-3SMBJ5918B-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=833-3SMBJ5918B-TP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL6_2 Pin=D?-1
+Added Pin To Net: NetName=NetD13_1 Pin=D?-2
+Change Net Name : Old Net Name=NetL6_2 New Net Name=NetD?_1
+Added Pin To Net: NetName=NetJ10_A12 Pin=J10-A12
+Added Pin To Net: NetName=NetJ10_A12 Pin=J10-B12
+Added Net: Name=NetJ10_A12
+Added Member To Class: ClassName=Digital_Connectors_and_IHM Member=Component D? 3SMBJ5918B-TP
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

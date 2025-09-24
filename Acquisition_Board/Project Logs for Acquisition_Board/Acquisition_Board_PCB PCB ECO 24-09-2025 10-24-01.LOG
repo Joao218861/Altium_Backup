@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetJ3_1 Pin=J10-A9
+Removed Pin From Net: NetName=NetJ3_1 Pin=J10-B9
+Added Pin To Net: NetName=NetJ3_1 Pin=R65-1
+Added Pin To Net: NetName=NetJ10_A9 Pin=J10-A9
+Added Pin To Net: NetName=NetJ10_A9 Pin=J10-B9
+Added Net: Name=NetJ10_A9
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

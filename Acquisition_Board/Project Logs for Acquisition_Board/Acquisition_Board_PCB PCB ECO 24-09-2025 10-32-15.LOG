@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetD13_1 Pin=J10-A12
+Added Pin To Net: NetName=NetD13_1 Pin=J10-B12
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J10-A9
+Added Pin To Net: NetName=NetJ3_1 Pin=J10-B9
+Added Pin To Net: NetName=NetJ3_1 Pin=R65-1
+Added Net: Name=NetJ3_1
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

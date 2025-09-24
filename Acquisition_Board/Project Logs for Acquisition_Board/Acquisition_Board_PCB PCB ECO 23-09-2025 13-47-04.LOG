@@ -1,0 +1,48 @@
+Added Component: Designator=J10(MOLEX_2171750001)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2171750001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2171750001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2171750001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R58(RR_1220)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RR_1220)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ3_1 Pin=J10-A9
+Added Pin To Net: NetName=NetD13_1 Pin=J10-A12
+Added Pin To Net: NetName=NetJ3_1 Pin=J10-B9
+Added Pin To Net: NetName=NetD13_1 Pin=J10-B12
+Added Pin To Net: NetName=GND Pin=J10-SH1
+Added Pin To Net: NetName=GND Pin=J10-SH2
+Added Pin To Net: NetName=GND Pin=J10-SH3
+Added Pin To Net: NetName=GND Pin=J10-SH4
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=GND Pin=R59-2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=-Vin
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=+Vin
+Added Pin To Net: NetName=NetJ10_A5 Pin=J10-A5
+Added Pin To Net: NetName=NetJ10_A5 Pin=R58-2
+Added Net: Name=NetJ10_A5
+Added Pin To Net: NetName=NetJ10_B5 Pin=J10-B5
+Added Pin To Net: NetName=NetJ10_B5 Pin=R59-1
+Added Net: Name=NetJ10_B5
+Added Member To Class: ClassName=Digital_Connectors_and_IHM Member=Component J10 2171750001
+Added Member To Class: ClassName=Digital_Connectors_and_IHM Member=Component R58 Res2
+Added Member To Class: ClassName=Digital_Connectors_and_IHM Member=Component R59 Res2
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE

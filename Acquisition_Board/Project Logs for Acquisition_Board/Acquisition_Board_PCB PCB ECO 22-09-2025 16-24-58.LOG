@@ -1,0 +1,49 @@
+Added Component: Designator=J2(TE_1888292-5)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/esq-1xx-xx-x-x-xxx-xx-x-xx-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESQ-106-14-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-ESQ10614GD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/ESQ-106-14-G-D?qs=0lQeLiL1qybkPQShhYifng%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD12_2 Pin=J2-7
+Added Pin To Net: NetName=NetD11_2 Pin=J2-8
+Added Pin To Net: NetName=NetD8_2 Pin=J2-9
+Added Pin To Net: NetName=NetD7_2 Pin=J2-10
+Added Pin To Net: NetName=NetD6_2 Pin=J2-11
+Added Pin To Net: NetName=NetD5_2 Pin=J2-12
+Change Net Name : Old Net Name=NetD5_2 New Net Name=AUX_12
+Change Net Name : Old Net Name=NetD6_2 New Net Name=AUX_11
+Change Net Name : Old Net Name=NetD7_2 New Net Name=AUX_10
+Change Net Name : Old Net Name=NetD8_2 New Net Name=AUX_9
+Change Net Name : Old Net Name=NetD11_2 New Net Name=AUX_8
+Change Net Name : Old Net Name=NetD12_2 New Net Name=AUX_7
+Added Pin To Net: NetName=AUX_1 Pin=J2-1
+Added Pin To Net: NetName=AUX_1 Pin=J9-1
+Added Pin To Net: NetName=AUX_1 Pin=R86-2
+Added Net: Name=AUX_1
+Added Pin To Net: NetName=AUX_2 Pin=J2-2
+Added Pin To Net: NetName=AUX_2 Pin=J9-2
+Added Pin To Net: NetName=AUX_2 Pin=R87-1
+Added Net: Name=AUX_2
+Added Pin To Net: NetName=AUX_3 Pin=J2-3
+Added Pin To Net: NetName=AUX_3 Pin=J9-3
+Added Pin To Net: NetName=AUX_3 Pin=R84-2
+Added Net: Name=AUX_3
+Added Pin To Net: NetName=AUX_4 Pin=J2-4
+Added Pin To Net: NetName=AUX_4 Pin=J9-4
+Added Pin To Net: NetName=AUX_4 Pin=R85-1
+Added Net: Name=AUX_4
+Added Pin To Net: NetName=AUX_5 Pin=J2-5
+Added Pin To Net: NetName=AUX_5 Pin=J9-5
+Added Pin To Net: NetName=AUX_5 Pin=R82-2
+Added Net: Name=AUX_5
+Added Pin To Net: NetName=AUX_6 Pin=J2-6
+Added Pin To Net: NetName=AUX_6 Pin=J9-6
+Added Pin To Net: NetName=AUX_6 Pin=R83-1
+Added Net: Name=AUX_6
+Added Member To Class: ClassName=Digital_Connectors_and_IHM Member=Component J2 1888292-5
+Added Room: Name=Analog_Modulation
+Added Room: Name=Analog_Supply_and_TIA
+Added Room: Name=Digital_Connectors_and_IHM
+Added Room: Name=Digital_STMG474RE
